@@ -148,7 +148,6 @@ def clusterBranches(dataFile):
 
     return
 
-#visualizeQuake("cluster.txt")
 def main():
     #Filename of a csv formated as: "lat,lon,branchName"
     latLonFileName = input('What is the name of the file that contains the lat lon data?(zipcodes_locations.csv)')
